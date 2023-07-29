@@ -1,0 +1,32 @@
+body{
+    background-image: url(https://w0.peakpx.com/wallpaper/776/418/HD-wallpaper-constellations-alec-holowka-animals-game-gaming-jacksepticeye-night-in-the-woods-nitw-scott-benson.jpg);
+    background-size: auto;
+    /* opacity: 0.7; */
+}
+
+.image-profile{
+    margin-left: 50px;
+    margin-top: 50px;
+}
+
+.titulo{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    font-size: xx-large;
+    color: aliceblue;
+}
+
+.nombre{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    font-size: xx-large;
+    color: aliceblue;
+}
+
+.skills{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    font-size: xx-large;
+    color: aliceblue;
+    background-color: rgba(127, 255, 212, 0.311);
+}
