@@ -1,0 +1,21 @@
+.finder{
+    
+}
+
+#pinterest-icon{
+    max-height: 2vw;
+    max-width: 2vw;
+}
+
+#pinterest-icon:hover{
+    /* box-shadow: 0px 1px 3px 2px #919191; */
+    
+}
+
+header{
+    background-color: white
+}
+
+main{
+    background-color: white
+}

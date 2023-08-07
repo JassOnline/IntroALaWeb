@@ -20,11 +20,11 @@ a:hover{
     border-radius: 100px;
     border-color: gray;
     background-color: white;
-    /* height: 50px;
-    width: 500px; */
+    height: 2vw;
+    width: 30vw;
     display: block;
     margin-left: auto;
-    margin-right: auto
+    margin-right: auto;
 }
 
 #input-search:hover{
@@ -73,4 +73,23 @@ footer{
 #perfil{
     max-width: 50px;
     max-height: 50px;
+}
+
+.btn-search{
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+
+}
+
+.btn-lucky{
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+
+#principal{
+    display: block;
+    margin-left: auto;
+    margin-right: auto
 }
