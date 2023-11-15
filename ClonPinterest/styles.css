@@ -1,5 +1,17 @@
 .finder{
-    
+    min-width: 70vw;
+    max-width: 80vw;
+    border-radius: 100px;
+    border-color: rgba(255, 255, 255, 0);
+    background-color: rgb(233, 233, 233);
+    padding-left: 10px;
+}
+
+.finder:focus{
+    outline: none;
+    border-color: rgba(124, 171, 237, 0.708);
+    border-width: 3px;
+    border-style: solid;
 }
 
 #pinterest-icon{
@@ -12,10 +24,54 @@
     
 }
 
-header{
-    background-color: white
+#navbar-pinterest{
+    background-color: white;
+    display: flex;
+    padding: 2vh 1vw 2vh 1vw;
+    justify-content: space-evenly;
 }
 
-main{
-    background-color: white
+body{
+    background-color: rgb(255, 255, 255);
+    margin: 0%;
+    padding: 0%;
+}
+
+#notification{
+    max-height: 2vw;
+    max-width: 2vw;
+    padding: 0 1vw 0 1vw;
+}
+
+#message{
+    max-height: 2vw;
+    max-width: 2vw;   
+    padding: 0 1vw 0 1vw;
+}
+
+#profile-img{
+    max-height: 2vw;
+    max-width: 2vw;   
+    padding: 0 1vw 0 1vw;
+}
+
+#content{
+    display: flex;
+}
+
+.card-image{
+    border-radius: 30px;
+    padding: 15px;
+    max-width: 500px;
+    max-height: 500px;
+}
+
+.image-card-user{
+    border-radius: 100px;
+    max-width: 25px;
+    max-height: 25px;
+}
+
+.card-image:hover{
+    
 }
